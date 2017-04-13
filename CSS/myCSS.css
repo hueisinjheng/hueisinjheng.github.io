@@ -48,3 +48,6 @@ body{
     font-family: cursive;
     line-height: 8px;
 }
+header {
+    background: url(/images/myHeader1.png)repeat;
+}
