@@ -38,9 +38,12 @@ a.sitetitle {
     height: 60px;
     line-height: 60px;
     margin-right: 20px;
+    padding: 0 10px;
+    color: white;
 }
 .myMenu img {
     vertical-align: middle;
+    padding: 0 10px;
 }
 body{
     margin: 0;
