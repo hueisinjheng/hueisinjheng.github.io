@@ -65,3 +65,15 @@ header {
 }
 .right {float:right;
 }
+#myContent { 
+    width: 700px;
+}
+#mySider {
+    width: 300px;
+}
+.h30 {
+    height: 30px;
+}
+.clear {
+    clear: both;
+}
