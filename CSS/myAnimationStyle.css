@@ -20,7 +20,7 @@ footer {
 }
 
 #animateDiv {
-    width: 40px;
+    width: 50px;
     background: #09beb7;
     color: white;
     font-size: 20px;
@@ -28,7 +28,7 @@ footer {
     padding: 10px;
     float: left;
     margin: 20px 0px;
-    border-radius: 8px;
+    border-radius: 10px;
     position: relative;
     animation: myAnimateDiv 11s infinite;
 }
