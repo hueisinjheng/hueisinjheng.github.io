@@ -31,10 +31,7 @@ footer {
     border-radius: 18px;
     position: relative;
     animation: myAnimateDiv 11s infinite;
-        transition: width 2s;
 }
-div:hover {width: 300px;}
-
 @keyframes myAnimateDiv{
     0% {transform: rotate(0deg);left:-100px;}
    10% {transform: rotate(0deg);left:0px;}
